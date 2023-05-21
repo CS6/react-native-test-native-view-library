@@ -1,12 +1,16 @@
 import * as React from 'react';
 
 import { StyleSheet, View } from 'react-native';
-import { TestNativeViewLibraryView } from 'react-native-test-native-view-library';
+import {
+  TestNativeViewLibraryView,
+  TestTextView,
+} from 'react-native-test-native-view-library';
 
 export default function App() {
   return (
     <View style={styles.container}>
       <TestNativeViewLibraryView color="#32a852" style={styles.box} />
+      <TestTextView />
     </View>
   );
 }
