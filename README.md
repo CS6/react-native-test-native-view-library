@@ -5,13 +5,13 @@ test-native-view-library
 ## Installation
 
 ```sh
-npm install react-native-test-native-view-library
+npm install @cs6/react-native-test-native-view-library
 ```
 
 ## Usage
 
 ```js
-import { TestNativeViewLibraryView } from "react-native-test-native-view-library";
+import { TestNativeViewLibraryView } from "@cs6/react-native-test-native-view-library";
 
 // ...
 

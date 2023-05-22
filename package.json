@@ -1,6 +1,6 @@
 {
   "name": "@cs6/react-native-test-native-view-library",
-  "version": "0.1.0",
+  "version": "0.1.2",
   "private": false,
   "description": "test",
   "main": "lib/commonjs/index",
